@@ -1,7 +1,7 @@
 # Angular Material Admin Lite - free and open source admin dashboard template
 Including responsive layout and high quality UI built with Angular Material.
 
-[Download](https://github.com/flatlogic/angular-material-admin/archive/master.zip) | [Available versions](https://demo.flatlogic.com/angular-material-admin/) | [More templates](https://flatlogic.com/admin-dashboards)
+[Demo](https://demo.flatlogic.com/angular-material-admin) | [Download](https://github.com/flatlogic/angular-material-admin/archive/master.zip) | [Available versions](https://demo.flatlogic.com/angular-material-admin/) | [More templates](https://flatlogic.com/admin-dashboards)
 
 ![1 (1)](https://user-images.githubusercontent.com/17360676/84912599-41a99c00-b0c2-11ea-8d9b-6c05a398b8ca.jpg)
 
@@ -74,7 +74,3 @@ For any additional information please refer to [Flatlogic homepage](https://flat
 
 ## Premium themes
 Looking for premium themes and templates? Check out our other templates at [flatlogic.com](https://flatlogic.com/templates).
-
-## License
-
-Sing App Lite version is [MIT](https://github.com/flatlogic/sing-app/blob/master/LICENSE.txt)-licensed.
