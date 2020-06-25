@@ -18,18 +18,18 @@ import { AuthModule } from './pages/auth/auth.module';
     AppComponent,
     NotFoundComponent
   ],
-    imports: [
-        BrowserModule,
-        SharedModule,
-        AuthModule,
-        DashboardModule,
-        BrowserAnimationsModule,
-        RouterModule,
-        AppRoutingModule,
-        ToastrModule.forRoot(),
-        MatCardModule,
-        MatButtonModule,
-    ],
+  imports: [
+    BrowserModule,
+    SharedModule,
+    AuthModule,
+    DashboardModule,
+    BrowserAnimationsModule,
+    RouterModule,
+    AppRoutingModule,
+    ToastrModule.forRoot(),
+    MatCardModule,
+    MatButtonModule,
+  ],
   providers: [],
   bootstrap: [AppComponent]
 })
