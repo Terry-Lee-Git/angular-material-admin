@@ -1,4 +1,4 @@
-# Angular Material Admin Lite - free and open source admin dashboard template
+# Angular Material Admin Lite - free and open source angular admin dashboard template
 Including responsive layout and high quality UI built with Angular Material.
 
 [Demo](https://demo.flatlogic.com/angular-material-admin) | [Download](https://github.com/flatlogic/angular-material-admin/archive/master.zip) | [Available versions](https://demo.flatlogic.com/angular-material-admin/) | [More templates](https://flatlogic.com/admin-dashboards)
