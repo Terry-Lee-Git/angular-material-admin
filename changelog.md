@@ -1,3 +1,8 @@
+## [1.0.1]
+
+### Added
+- The added configuration for router module.
+
 ## [1.0.0]
 
 ### Added
